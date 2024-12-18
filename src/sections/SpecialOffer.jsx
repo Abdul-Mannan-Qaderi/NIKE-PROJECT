@@ -29,7 +29,7 @@ const SpecialOffer = () => {
 					is nothing short of expectation.
 				</p>
 				<div className="mt-11 flex flex-wrap gap-4">
-					<Button label="Shop Now" iconURL={arrowRight} />
+					<Button label="Shop Now" />
 					<Button
 						label="Learn More"
 						backgroundColor="bg-white"
