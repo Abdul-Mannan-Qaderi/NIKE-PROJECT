@@ -22,5 +22,5 @@ const Subscribe = () => {
 		</section>
 	);
 };
-
+//	just a comment
 export default Subscribe;
